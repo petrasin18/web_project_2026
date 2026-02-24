@@ -26,15 +26,15 @@ nav a {
 }
 box-parent { 
     width:80%;
-    margin:2rem auto;
-    padding:1.5rem;
+    margin:2 rem auto;
+    padding:1.5 rem;
     border: 3px solid #b00020;
     background-color: #ffe6f2;
 
 }
 box-child{
     width:100%;
-    padding:1rem;
+    padding:1 rem;
     border: 3px solid #cc0066;
     background-color:#ffe6f2;
     box-sizing: border-box;
