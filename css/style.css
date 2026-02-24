@@ -24,3 +24,18 @@ nav a {
     color:#b00020;
     
 }
+box-parent { 
+    width:80%;
+    margin:2rem auto;
+    padding:1.5rem;
+    border: 3px solid #b00020;
+    background-color: #ffe6f2;
+
+}
+box-child{
+    width:100%;
+    padding:1rem;
+    border: 3px solid #cc0066;
+    background-color:#ffe6f2;
+    box-sizing: border-box;
+}
