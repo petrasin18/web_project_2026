@@ -24,21 +24,22 @@ nav a{
 }
 main{
   width:90%;
-  margin:1.5rem auto;
-  padding:1.25rem;
+  max-width:900px;
+  margin:2rem auto;
+  padding:1.5rem;
   border:2px solid #444;
   background:#fff;
 }
 section{
-  width:90%;
-  margin:1rem 0;
+  width:85%;
+  margin:1.5rem auto;
   padding:1rem;
   border:2px solid #666;
   background:#fafafa;
 }
 p{
-  width:80%;
-  margin:0.75rem 0;
+  width:90%;
+  margin:1rem auto;
   padding:0.75rem;
   border:1px solid #999;
   background:#fff;
