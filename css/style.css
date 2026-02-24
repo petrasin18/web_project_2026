@@ -11,21 +11,21 @@ body {
 
 main{
     width: 80%;
-    margin: 2 rem auto; 
-    padding: 2 rem;
+    margin: 2rem auto; 
+    padding: 2rem;
     border: 2px solid #ff66b2;
     background-color: white;
 }
 
 section {
-    margin: 1.5 rem 0;
-    padding: 1 rem;
+    margin: 1.5rem 0;
+    padding: 1rem;
     border: 1px solid #cc0066;
 }
 
 /* box sizing */
 p {
-    margin: 1 rem;
+    margin: 1rem;
     padding: 20px;
     border: 5px solid #4a004a;
     width: 100%;
@@ -65,5 +65,5 @@ nav > ul {
 
 /* nav item */
 ul > li {
-    font-size: 1 rem; 
+    font-size: 1rem; 
 }
